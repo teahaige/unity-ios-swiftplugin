@@ -1,10 +1,3 @@
-//
-//  NSObject+SwiftExample.h
-//  
-//
-//  Created by Juan Li on 16/05/2018.
-//
-
 #import <Foundation/Foundation.h>
 #import "unityswift-Swift.h"    // Required
 // This header file is generated automatically when Xcode build runs.
